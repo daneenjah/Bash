@@ -8,4 +8,4 @@ ipcam.sh just moves some files on a server.
 
 pingtest.sh pings and address and returns the response in a nice clean format for status bars.
 
-vm_winows is just a script to open a vm.
+vm_windows is just a script to open a vm.
